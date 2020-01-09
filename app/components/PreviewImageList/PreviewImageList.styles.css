@@ -3,6 +3,7 @@
     min-width: 200px;
     overflow: auto;
     list-style-type: none;
+    scrollbar-width: none;
 }
 
 .preview-image-list::-webkit-scrollbar {
