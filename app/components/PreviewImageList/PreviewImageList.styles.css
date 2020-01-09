@@ -1,0 +1,10 @@
+.preview-image-list {
+    display: inline-block;
+    min-width: 200px;
+    overflow: auto;
+    list-style-type: none;
+}
+
+.preview-image-list::-webkit-scrollbar {
+    display: none;
+}

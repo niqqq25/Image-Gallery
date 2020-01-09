@@ -1,0 +1,12 @@
+.preview-image {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(241, 241, 241);
+    justify-content: center;
+    align-items: center;
+}
+
+.preview-image--selected {
+    border: 2px solid red;
+}
